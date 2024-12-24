@@ -85,7 +85,7 @@ def main():
     cash.get_week_stats()
 
 
-pass
+pas
 
 if __name__ == '__main__':
     main()
